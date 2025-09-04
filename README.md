@@ -1,2 +1,19 @@
 # MSc_project
 Extracting relations from text with  LLMs
+
+Dataset is given inside of Dataset Corpus and Processing in .zip format. Original dataset link is: https://github.com/isegura/DDICorpus/tree/master
+
+Consent for dataset to:
+
+María Herrero-Zazo, Isabel Segura-Bedmar, Paloma Martínez, Thierry Declerck, The DDI corpus: An annotated corpus with pharmacological substances and drug–drug interactions, Journal of Biomedical Informatics, Volume 46, Issue 5, October 2013, Pages 914-920, http://dx.doi.org/10.1016/j.jbi.2013.07.011. 
+
+Isabel Segura-Bedmar, Paloma Martínez, María Herrero Zazo, (2014). Lessons learnt from the DDIExtraction-2013 shared task, Journal of Biomedical Informatics, Vol.51, pp:152-164.
+
+
+The licence of this dataset is Creative Commons Attribution-NonCommercial 4.0 InternationalUsers (CC BY-NC). It can share and adapt the DDI dataset
+if the users give credit to me and do not use my dataset for any commercial purposes.
+ 
+## Contact Info:
+
+This dataset has been created by Hulat Group at University Carlos III of Madrid. 
+Contact address: isegura@inf.uc3m.es or isegurabe@gmail.com

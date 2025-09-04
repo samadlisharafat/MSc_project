@@ -1,5 +1,5 @@
 # MSc_project
-Extracting relations from text with  LLMs
+The project name is "Extracting relations from text with  LLMs", here Gemma-3-27b-it model is used for all predictions, other experiment related details are explained in dissertation paper please read the file for more information. In addition to implementation and evaluation code files, I uploaded results as proof as well, all created and used JSON files are also added into folders.
 
 Dataset is given inside of Dataset Corpus and Processing in .zip format. Original dataset link is: https://github.com/isegura/DDICorpus/tree/master
 
